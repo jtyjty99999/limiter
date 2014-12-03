@@ -1,0 +1,20 @@
+{
+  "name": "api-limiter",
+  "version": "0.0.1",
+  "description": "simple api limiter",
+  "keywords": [
+    "limiter"
+  ],
+  "author": "姜天意<tianyi.jiangty@alibaba-inc.com>",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jtyjty99999/limiter.git"
+  },
+  "main": "index.js",
+  "devDependencies": {},
+  "dependencies": {
+    "co": "~3.1.0",
+    "moment": "~2.8.4",
+    "thunkify-wrap": "~1.0.4"
+  }
+}
